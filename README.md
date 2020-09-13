@@ -1,4 +1,5 @@
 # gitTesting
-this is the standard tutorials on git
+This is the standard tutorials on git.
 
-these changes only exist in the readme-edits branch at the moment
+These changes only exist in the readme-edits branch at the moment.
+(well, not now that the branch is deleted)
